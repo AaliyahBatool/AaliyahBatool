@@ -21,4 +21,4 @@
 ---
 
 ## 🛠️ Tech Stack  
-![Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-%2393c) ![React](https://img.shields.io/badge/Frontend-React-%2361DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E)(https://img.shields.io/badge/Python-%233776AB) ![SQL](https://img.shields.io/badge/Database-SQL-%2300758F)  
+![Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-%2393c) ![React](https://img.shields.io/badge/Frontend-React-%2361DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E) ![SQL](https://img.shields.io/badge/Database-SQL-%2300758F)  
