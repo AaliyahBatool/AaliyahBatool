@@ -8,6 +8,13 @@
 
 ---
 
+## 🏆 Featured Projects  
+🚀 [SurveiLens](https://github.com/your-username/SurveiLens) - Verified Reviews using Ethereum & ML  
+📚 [Solis](https://github.com/your-username/Solis) - Fake Reviews Verifier  
+🔍 [Pristine](https://github.com/your-username/Pristine) - AI for Water Quality Detection  
+
+---
+
 ## 🚀 GitHub Stats & Activity  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaliyahBatool&layout=compact&theme=radical)   
 
