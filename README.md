@@ -4,15 +4,14 @@
  🌟 **Currently working on:** Memora - a Time Capsule App
 
 🔍 **Exploring:** Smart Contracts, Solidity, and AI-Powered Fraud Detection  
-💡 **Previously built:** Solis | Pristine | FundMe  
+💡 **Previously built:** Solis | InventoryManagement | FundMe  
 🎤 **Speaker at:** React.js Workshop by Google Developer Groups 
 
 ---
 
 ## 🏆 Featured Projects  
-🚀 [SurveiLens](https://github.com/your-username/SurveiLens) - Verified Reviews using Ethereum & ML  
-📚 [Solis](https://github.com/your-username/Solis) - Fake Reviews Verifier  
-🔍 [Pristine](https://github.com/your-username/Pristine) - AI for Water Quality Detection  
+📚 [Solis](https://github.com/AaliyahBatool/Solis) - Verified Reviews using Ethereum & ML 
+🔍 [InventoryManagement](https://github.com/AaliyahBatool/InventoryManagement) - Full Stack App for managing your business inventory  
 
 ---
 
