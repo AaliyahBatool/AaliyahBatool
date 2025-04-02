@@ -11,7 +11,7 @@
 
 ## 🏆 Featured Projects  
 📚 [Solis](https://github.com/AaliyahBatool/Solis) - Verified Reviews using Ethereum & ML 
-🔍 [InventoryManagement](https://github.com/AaliyahBatool/InventoryManagement) - Full Stack App for managing your business inventory  
+🔍 [InventoryManager](https://github.com/AaliyahBatool/InventoryManager) - Full Stack App for managing your business inventory  
 
 ---
 
